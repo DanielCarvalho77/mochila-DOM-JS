@@ -1,5 +1,7 @@
 html {
-    background: radial-gradient(farthest-corner at right top,#21A09D, #06182D);
+    /*background: radial-gradient(farthest-corner at right top,#21A09D, #06182D);
+    */
+    background-color: #410c38;
     height: 100%;
     font-family: 'Roboto', cursive;
 }
@@ -90,7 +92,7 @@ html {
     border: 2px solid #40112D;
 }
 
-.adicionar label {
+.adicionar span {
     display: block;
 }
 
